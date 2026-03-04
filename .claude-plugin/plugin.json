@@ -1,4 +1,0 @@
-{
-  "name": "claude-dev-workflow",
-  "description": "A four-command workflow for Claude Code: spec a feature, start a dev session, review changes, and ship a PR."
-}
